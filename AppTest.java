@@ -9,3 +9,4 @@ public class AppTest {
         assertEquals("Hello, Jenkins CI!", app.getMessage());
     }
 }
+
